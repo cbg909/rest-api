@@ -12,7 +12,7 @@ First Time Use
  - payload for example:
 ```
 {
-    "name":"Elaya",
+    "name":"Ela",
     "author": "SampleApp",
     "version": [{
         "version_num": "1.0.0",
